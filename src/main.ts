@@ -3,7 +3,9 @@ import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
 // import './topics/tipos_basicos.ts';
-import './topics/generics.ts';
+import './topics/optionalChaining.ts';
+// import './topics/decoration.ts';
+// import './topics/generics.ts';
 // import './topics/clases.ts';
 // import './topics/import-export.ts';
 // import './topics/function-desestructuracion.ts';
